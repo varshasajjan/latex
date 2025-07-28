@@ -1,6 +1,11 @@
+```bash
 bash install-latex.sh
+```
 
-# to run latex  commands smoothly
+To run the following commands smoothly:
+
+```bash
 texfot pdflatex filename.tex
 pdflatex filename.tex
 termux-open filename.pdf
+```
